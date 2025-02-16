@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+google-auth
+google-api-python-client
+python-dotenv
+pytz
